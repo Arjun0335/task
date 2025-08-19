@@ -82,7 +82,7 @@ const tasks = {
     "Business Laws: Indian Contract Act (General Nature, Consideration, Performance)"
   ],
   "2025-09-08": [
-    "Accounting: Company Accounts (Shares, Debentures, Redemption, Bonus Issue)",
+    "Accounting: Company Accounts (Shares, Debentures, Redemption, Bonus Issue)"
   ],
   "2025-09-09": [
     "Business Economics: Public Finance (Fiscal Functions, Budget, Debt, Policy)"
