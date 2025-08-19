@@ -6,7 +6,6 @@ const tasks = {
     "Business Economics: Theory of Demand (Law, Elasticity)"
   ],
   "2025-08-19": [
-    "Business Laws: Indian Contract Act (General Nature, Consideration, Performance)",
     "Quantitative Aptitude: Equations (Linear, Quadratic, Cubic)"
   ],
   "2025-08-20": [
@@ -14,12 +13,11 @@ const tasks = {
     "Business Economics: Theory of Supply (Law, Determinants, Elasticity)"
   ],
   "2025-08-21": [
-    "Business Laws: Sale of Goods Act (Formation, Conditions, Rights)",
     "Quantitative Aptitude: Linear Inequalities and Optimization"
+    "Business Economics: Cost Concepts (Short-run, Long-run, Average, Marginal, Fixed, Variable)"
   ],
   "2025-08-22": [
-    "Revision: Week 1 Topics",
-    "Practice MCQs from all 4 subjects"
+    "Business Laws: Sale of Goods Act (Formation, Conditions, Rights)"
   ],
 
   "2025-08-23": [
@@ -27,13 +25,11 @@ const tasks = {
     "Business Economics: Theory of Production (Factors, Law of Variable Proportions)"
   ],
   "2025-08-24": [
-    "Business Laws: Indian Partnership Act (Nature, Rights, Dissolution)",
-    "Quantitative Aptitude: Mathematics of Finance (SI, CI, Depreciation, PV, NPV)"
-  ],
+    "Business Economics: International Trade (Theories, Trade Policy, Exchange Rates, FDI)"  ],
   "2025-08-25": [
-    "Accounting: Depreciation & Amortisation (Methods, Accounting Treatment)",
-    "Business Economics: Cost Concepts (Short-run, Long-run, Average, Marginal, Fixed, Variable)"
-  ],
+    "Business Economics: International Trade (Theories, Trade Policy, Exchange Rates, FDI)",
+    "Quantitative Aptitude: Mathematics of Finance (SI, CI, Depreciation, PV, NPV)"
+    ],
   "2025-08-26": [
     "Business Laws: LLP Act (Features, Incorporation, Differences)",
     "Quantitative Aptitude: Mathematics of Finance (Bonds, Annuities, EMI, CAGR)"
@@ -47,8 +43,7 @@ const tasks = {
     "Quantitative Aptitude: Permutations & Combinations"
   ],
   "2025-08-29": [
-    "Revision: Week 2 Topics",
-    "Solve Practice Questions"
+    "Business Laws: Indian Partnership Act (Nature, Rights, Dissolution)",
   ],
 
   "2025-08-30": [
@@ -72,41 +67,38 @@ const tasks = {
     "Business Economics: Business Cycles (Meaning, Phases, Causes)"
   ],
   "2025-09-04": [
-    "Business Laws: Revision of LLP & Companies Act",
+    "Accounting: Depreciation & Amortisation (Methods, Accounting Treatment)",
     "Quantitative Aptitude: Differential & Integral Calculus Applications"
   ],
   "2025-09-05": [
-    "Revision: Week 3 Topics",
-    "Attempt Mock Test"
+    "Business Laws: Indian Contract Act (General Nature, Consideration, Performance)"
   ],
 
   "2025-09-06": [
-    "Accounting: Partnership & LLP Accounts (Final Accounts, Goodwill, Admission, Retirement)",
-    "Business Economics: Public Finance (Fiscal Functions, Budget, Debt, Policy)"
+    "Business Laws: Indian Contract Act (General Nature, Consideration, Performance)"
+
   ],
   "2025-09-07": [
-    "Business Laws: Revision of Sale of Goods Act & Negotiable Instruments Act",
-    "Quantitative Aptitude: Revision of Finance Mathematics"
+    "Business Laws: Indian Contract Act (General Nature, Consideration, Performance)"
   ],
   "2025-09-08": [
     "Accounting: Company Accounts (Shares, Debentures, Redemption, Bonus Issue)",
-    "Business Economics: Money Market (Demand, Supply, Monetary Policy, Crypto)"
   ],
   "2025-09-09": [
-    "Business Laws: Full Revision of Companies Act",
-    "Quantitative Aptitude: Revision of Permutations, Combinations & Series"
+    "Business Economics: Public Finance (Fiscal Functions, Budget, Debt, Policy)"
+
   ],
   "2025-09-10": [
-    "Accounting: Final Revision (Inventories, BRS, Depreciation, Accounts of NPO)",
-    "Business Economics: International Trade (Theories, Trade Policy, Exchange Rates, FDI)"
+    "Accounting: Partnership & LLP Accounts (Final Accounts, Goodwill, Admission, Retirement)",
+    "Business Economics: Public Finance (Fiscal Functions, Budget, Debt, Policy)"
   ],
   "2025-09-11": [
-    "Business Laws: Full Syllabus Rapid Revision",
-    "Quantitative Aptitude: Full Syllabus Rapid Revision"
+    "Business Economics: Money Market (Demand, Supply, Monetary Policy, Crypto)"
+
   ],
   "2025-09-12": [
-    "Final Revision of All 4 Subjects (Key Formulas, Acts, Diagrams)",
-    "Attempt Mock Test / PYQ Paper"
+    "Business Economics: Money Market (Demand, Supply, Monetary Policy, Crypto)"
+
   ]
 };
 
