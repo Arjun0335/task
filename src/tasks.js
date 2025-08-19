@@ -6,10 +6,10 @@ const tasks = {
     "Business Economics: Theory of Demand (Law, Elasticity)"
   ],
   "2025-08-19": [
-    "Quantitative Aptitude: Equations (Linear, Quadratic, Cubic)"
+    "Accounting: Bank Reconciliation Statement"
   ],
   "2025-08-20": [
-    "Accounting: Bank Reconciliation Statement",
+    "Quantitative Aptitude: Equations (Linear, Quadratic, Cubic)",
     "Business Economics: Theory of Supply (Law, Determinants, Elasticity)"
   ],
   "2025-08-21": [
