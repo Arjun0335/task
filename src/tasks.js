@@ -1,35 +1,34 @@
 const tasks = {
-
   // Study Plan Continuation (Week 1 to Week 4)
   "2025-08-18": [
     "Accounting: Accounting Process (Journal, Ledger, Trial Balance)",
     "Business Economics: Theory of Demand (Law, Elasticity)"
   ],
   "2025-08-19": [
-    "Accounting: Bank Reconciliation Statement"
+    "Quantitative Aptitude: Equations (Linear, Quadratic, Cubic)"
   ],
   "2025-08-20": [
-    "Quantitative Aptitude: Equations (Linear, Quadratic, Cubic)",
+    "Accounting: Bank Reconciliation Statement",
     "Business Economics: Theory of Supply (Law, Determinants, Elasticity)"
   ],
   "2025-08-21": [
-    "Quantitative Aptitude: Linear Inequalities and Optimization"
+    "Quantitative Aptitude: Linear Inequalities and Optimization",
     "Business Economics: Cost Concepts (Short-run, Long-run, Average, Marginal, Fixed, Variable)"
   ],
   "2025-08-22": [
     "Business Laws: Sale of Goods Act (Formation, Conditions, Rights)"
   ],
-
   "2025-08-23": [
     "Accounting: Inventories (Valuation, Cost, NRV)",
     "Business Economics: Theory of Production (Factors, Law of Variable Proportions)"
   ],
   "2025-08-24": [
-    "Business Economics: International Trade (Theories, Trade Policy, Exchange Rates, FDI)"  ],
+    "Business Economics: International Trade (Theories, Trade Policy, Exchange Rates, FDI)"
+  ],
   "2025-08-25": [
     "Business Economics: International Trade (Theories, Trade Policy, Exchange Rates, FDI)",
     "Quantitative Aptitude: Mathematics of Finance (SI, CI, Depreciation, PV, NPV)"
-    ],
+  ],
   "2025-08-26": [
     "Business Laws: LLP Act (Features, Incorporation, Differences)",
     "Quantitative Aptitude: Mathematics of Finance (Bonds, Annuities, EMI, CAGR)"
@@ -43,9 +42,8 @@ const tasks = {
     "Quantitative Aptitude: Permutations & Combinations"
   ],
   "2025-08-29": [
-    "Business Laws: Indian Partnership Act (Nature, Rights, Dissolution)",
+    "Business Laws: Indian Partnership Act (Nature, Rights, Dissolution)"
   ],
-
   "2025-08-30": [
     "Accounting: Final Accounts of Sole Proprietors",
     "Business Economics: Oligopoly & Monopolistic Competition (Game Theory)"
@@ -73,10 +71,8 @@ const tasks = {
   "2025-09-05": [
     "Business Laws: Indian Contract Act (General Nature, Consideration, Performance)"
   ],
-
   "2025-09-06": [
     "Business Laws: Indian Contract Act (General Nature, Consideration, Performance)"
-
   ],
   "2025-09-07": [
     "Business Laws: Indian Contract Act (General Nature, Consideration, Performance)"
@@ -86,7 +82,6 @@ const tasks = {
   ],
   "2025-09-09": [
     "Business Economics: Public Finance (Fiscal Functions, Budget, Debt, Policy)"
-
   ],
   "2025-09-10": [
     "Accounting: Partnership & LLP Accounts (Final Accounts, Goodwill, Admission, Retirement)",
@@ -94,11 +89,9 @@ const tasks = {
   ],
   "2025-09-11": [
     "Business Economics: Money Market (Demand, Supply, Monetary Policy, Crypto)"
-
   ],
   "2025-09-12": [
     "Business Economics: Money Market (Demand, Supply, Monetary Policy, Crypto)"
-
   ]
 };
 
